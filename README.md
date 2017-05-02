@@ -15,7 +15,8 @@ Methods are located in index.js
 Tests use [Mocha](http://mochajs.org/) and [Chai.js](http://chaijs.com/). Tests are located in `test` directory.
 
 * To install dependencies
-* ```
+
+```
 npm install
 ```
  or
