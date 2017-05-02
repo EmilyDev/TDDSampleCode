@@ -1,0 +1,10 @@
+{
+  "array" : [],
+  "object" : {},
+  "string" : "",
+  "string1" : "",
+  "null" : null,
+  "name" : "emily",
+  "deepNulls" : { "one" : {}, "two" : "2", "emptyArr" : [] },
+  "removeME" : { "remove" : {}, "emptyArr" :[[],{}], "emptyStr" : "" }
+}
