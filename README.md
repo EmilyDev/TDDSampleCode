@@ -1,5 +1,8 @@
 # removeEmptyFields
 
+## Blog Link
+[CodeWithMoi](https://codewithmoi.tumblr.com/post/160395480156/tdd-red-green-refactor)
+
 ## Functions
 Methods are located in index.js
 
